@@ -1,0 +1,16 @@
+{
+  "name": "orgtree",
+  "version": "1.0.0",
+  "description": "Organisation tree for Marvel",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Sorabh Mendiratta",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "mocha": "^5.2.0",
+    "require": "^2.4.20"
+  }
+}
